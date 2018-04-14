@@ -2,7 +2,7 @@
 
 这是[《Nodejs开发加密货币》](https://github.com/imfly/bitcoin-on-nodejs) 入门部门实例程序。是一个基于gihub的Api进行二次开发的统计分析工具，Statistical Analysis of Cryptocurrency Development Languages -- SACDL
 
-[在线试用](http://imfly.github.io/sacdl-project/)
+[在线试用](http://ytl2009.github.io/sacdl-project/)
 
 ## 功能
 
@@ -43,7 +43,7 @@ gulp deploy
 
 ## 反馈
 
-请将您的问题发布在这里： https://github.com/imfly/sacdl-project/issues
+请将您的问题发布在这里： https://github.com/ytl2009/sacdl-project/issues
 
 ## 协议
 
