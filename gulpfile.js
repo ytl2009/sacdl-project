@@ -10,6 +10,7 @@ var del = require('del');
 
 var processhtml = require('gulp-processhtml');
 var ghPages = require('gulp-gh-pages');
+var ejs = require('gulp-ejs');
 
 // Settings
 var settings = {
