@@ -121,6 +121,7 @@ gulp.task('watch', function() {
 gulp.task("html",  ['clean'], function() {
     gulp.src('./app/views/repos/index.ejs')
         .pipe(processhtml())
+        .pipe(ejs({},{},{ext: '.html'}))
         .pipe(gulp.dest(settings.destFolder))
 })
 
